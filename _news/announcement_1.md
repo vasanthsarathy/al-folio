@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: 2016-09-16
 inline: true
 ---
 
-A simple inline announcement.
+I am excited to be starting at [SIFT](http://sift.net) as a Senior Researcher

@@ -2,22 +2,34 @@
 layout: about
 title: about
 permalink: /
-description: <a href="#">Affiliations</a>. Address. Contacts. Moto. Etc.
+description: <a href="http://vsarathy.com">Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: Robots.jpg
-  address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
 
 news: true
 social: true
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com){:target="\_blank"}. You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a Senior Researcher at [SIFT](https://www.sift.net/), an AI
+and cyber-security research firm. I received my PhD in computer
+science and cognitive science at Tufts University, advised by
+Matthias Scheutz and Daniel Dennett. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/){:target="\_blank"} and [Academicons](https://jpswalsh.github.io/academicons/){:target="\_blank"}, like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+My research is in Artificial
+Intelligence, focusing on how machines can solve problems
+unanticipated by its human designer. I am actively exploring topics
+at the intersection of symbolic reasoning/planning and in
+reinforcement learning. 
+
+We, humans are creative problem solvers. I
+believe our problem-solving skills are enabled by our ability
+to conceptualize ideas symbolically in our mind, represent them in
+different ways and at different levels of abstraction. So, to solve
+unexpected problems, we are able to quickly shift our mental
+representations to suit the problem at hand. 
+
+We notice, wonder, raise questions, explore our world, and adapt
+our thinking. How can we enable machines to do the same?
